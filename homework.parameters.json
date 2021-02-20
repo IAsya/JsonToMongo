@@ -1,0 +1,220 @@
+{
+  "version": "v1.0",
+  "parameters": [
+      { "name": "parameter1",
+        "description": "my parameter 1",
+        "isList": false,
+        "roles": [
+          "role1",
+          "role2"
+        ],
+        "type": "STRING",
+        "bundle": [
+          {
+            "path": [
+              {
+                "code": "code1",
+                "value": "pathValue1"
+              },
+              {
+                "code": "code2",
+                "value": "pathValue2"
+              }
+            ],
+            "values": [
+              "value1",
+              "value2"
+            ]
+          },
+          {
+            "path": [
+              {
+                "code": "code3",
+                "value": "pathValue3"
+              },
+              {
+                "code": "code4",
+                "value": "pathValue4"
+              }
+            ],
+            "values": [
+              "value3",
+              "value4"
+            ]
+          }
+        ]
+      },
+      {"name": "parameter2",
+        "description": "my parameter 2",
+        "isList": false,
+        "roles": [
+          "role1",
+          "role2"
+        ],
+        "type": "STRING",
+        "bundle": [
+          {
+            "path": [
+              {
+                "code": "code1",
+                "value": "pathValue1"
+              },
+              {
+                "code": "code2",
+                "value": "pathValue2"
+              }
+            ],
+            "values": [
+              "value1",
+              "value2"
+            ]
+          },
+          {
+            "path": [
+              {
+                "code": "code3",
+                "value": "pathValue3"
+              },
+              {
+                "code": "code4",
+                "value": "pathValue4"
+              }
+            ],
+            "values": [
+              "value3",
+              "value4"
+            ]
+          }
+        ]
+      },
+      {"name": "parameter3",
+        "description": "my parameter 3",
+        "isList": false,
+        "roles": [
+          "role1",
+          "role2"
+        ],
+        "type": "STRING",
+        "bundle": [
+        {
+          "path": [
+            {
+              "code": "code1",
+              "value": "pathValue1"
+            },
+            {
+              "code": "code2",
+              "value": "pathValue2"
+            }
+          ],
+          "values": [
+            "value1",
+            "value2"
+          ]
+        },
+        {
+          "path": [
+            {
+              "code": "code3",
+              "value": "pathValue3"
+            },
+            {
+              "code": "code4",
+              "value": "pathValue4"
+            }
+          ],
+          "values": [
+            "value3",
+            "value4"
+          ]
+        }
+    ]
+      },
+      {"name": "parameter4",
+        "description": "my parameter 4",
+        "isList": false,
+        "roles":[ "role1",
+          "role2"
+        ],
+        "type": "STRING",
+        "bundle": [
+          {
+            "path": [
+              {
+                "code": "code1",
+                "value": "pathValue1"
+              },
+              {
+                "code": "code2",
+                "value": "pathValue2"
+              }
+            ],
+            "values": [
+              "value1",
+              "value2"
+            ]
+          },
+          {
+            "path": [
+              {
+                "code": "code3",
+                "value": "pathValue3"
+              },
+              {
+                "code": "code4",
+                "value": "pathValue4"
+              }
+            ],
+            "values": [
+              "value3",
+              "value4"
+            ]
+          }
+        ]
+      },
+      {"name": "parameter5",
+        "description": "my parameter 5",
+        "isList": false,
+        "roles": [
+          "role1",
+          "role2"
+        ],
+        "type": "STRING",
+        "bundle": [
+          {
+            "path": [
+              {
+                "code": "code1",
+                "value": "pathValue1"
+              },
+              {
+                "code": "code2",
+                "value": "pathValue2"
+              }
+            ],
+            "values": [
+              "value1",
+              "value2"
+            ]
+          },
+          {
+            "path": [
+              {
+                "code": "code3",
+                "value": "pathValue3"
+              },
+              {
+                "code": "code4",
+                "value": "pathValue4"
+              }
+            ],
+            "values": [
+              "value3",
+              "value4"
+            ]
+          }
+        ]
+      }
+  ]
+
+}
